@@ -7,7 +7,7 @@ body {
 header {
   background-color: #f06c62;
   height: 80px;
-  width: 10%;
+  width: 100%;
   flex-shrink: 0
 }
 
